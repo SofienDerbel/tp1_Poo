@@ -27,7 +27,7 @@ Deploy the project
 
 ## Authors
 
-* **Sofiene Derbel** - *Initial work* - [PurpleBooth](https://github.com/SofienDerbel)
+* **Sofiene Derbel** - *Initial work* - [Soof](https://github.com/SofienDerbel)
 
 
 
