@@ -41,7 +41,7 @@ public class Zoo {
 	{
 		for(int i = 0 ; i<secteursAnimaux.size(); i++)
 		{
-			if(secteursAnimaux.get(i).getTypeAnimauxDansSecteur().equals(a.getNomAnimal()))
+			if(secteursAnimaux.get(i).getTypeAnimauxDansSecteur().equals(a.getTypeAnimal()))
 			{
 				secteursAnimaux.get(i).getAnimauxDansSecteur().add(a);
 			}
